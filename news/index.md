@@ -20,7 +20,11 @@ Orbital Desktop Environment
 
 # Orbital - News
 
-## Orbital Desktop v1.0 Andromeda
+<h2 id="100">
+
+Orbital Desktop v1.0 Andromeda
+
+</h2>
 
 Orbital v1.0, code-named Andromeda is the first official Orbital release. 
 
