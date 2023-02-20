@@ -18,6 +18,8 @@ Orbital Desktop Environment
 
 </h3>
 
+# Orbital - News
+
 * Coming soon
 
 <hr />

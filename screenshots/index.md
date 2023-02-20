@@ -18,6 +18,8 @@ Orbital Desktop Environment
 
 </h3>
 
+# Orbital - Screenshots
+
 Screenshots of Orbital Desktop `v1.0`
 
 <img src="https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/1.png" width="100%" style="margin: auto; border-radius: 1em;">

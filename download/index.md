@@ -18,7 +18,7 @@ Orbital Desktop Environment
 
 </h3>
 
-# Download Orbital
+# Orbital - Download
 
 * Please note: Orbital is not currently packaged for any distribution, and so you will have to follow the installation instructions below.
 
