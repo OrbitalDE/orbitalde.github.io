@@ -20,9 +20,9 @@ Orbital Desktop Environment
 
 <img src="https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/1.png" width="100%" style="margin: auto; border-radius: 1em;">
 
-Orbital is a lightweight desktop environment with class and style that provides tiling window management. Orbital is powered by [skyWM](https://github.com/orbitalde/skywm). skyWM is an extensible tiling Window Manager written in Rust using the [penrose Window Manager library](https://github.com/sminez/penrose).
+Orbital is a lightweight desktop environment that provides tiling window management with class and style. Powered by [skyWM](https://github.com/orbitalde/skywm) - Our own, extensible Window Manager written in Rust - Orbital is sure to blow you away. 
 
-skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy. Building on that, Orbital provides the user with a small selection of essential applications, and modifications to make skyWM a usable home for you.
+skyWM is an extensible tiling Window Manager written in Rust using the [penrose Window Manager library](https://github.com/sminez/penrose). skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy. Building on that, Orbital provides the user with a small selection of essential applications, and modifications to make skyWM a usable home for you.
 
 # Our Ecosystem 🌎
 
@@ -47,6 +47,7 @@ Open source components we utilised:
 - [Terminator](https://gnome-terminator.org/) - Multiple GNOME terminals in one window!
 - [Thunar](https://docs.xfce.org/xfce/thunar/start) - Thunar is a modern file manager for the Xfce Desktop Environment. Thunar has been designed from the ground up to be fast and easy to use. Its user interface is clean and intuitive and does not include any confusing or useless options by default.
 - [Vim](https://www.vim.org/) -  Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X. 
+- [Rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement.
 
 <hr />
 
