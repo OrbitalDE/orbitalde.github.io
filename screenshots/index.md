@@ -18,19 +18,17 @@ Orbital Desktop Environment
 
 </h3>
 
-# Screenshots
+Screenshots of Orbital Desktop `v1.0`
 
-These screenshots are of Orbital `v1.0`
-
-![Orbital Desktop](https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/1.png)
+<img src="https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/1.png" width="100%" style="margin: auto; border-radius: 1em;">
 
 * Desktop overview of Orbital
 
-![Orbital Desktop](https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/2.png)
+<img src="https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/2.png" width="100%" style="margin: auto; border-radius: 1em;">
 
 * Orbital desktop with 3 tiled windows open: orbital-settings, Firefox showing orbital keybinds and Vim.
 
-![Orbital App Grid](https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/3.png)
+<img src="https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/3.png" width="100%" style="margin: auto; border-radius: 1em;">
 
 * Orbital App Grid (Modified Rofi)
 
