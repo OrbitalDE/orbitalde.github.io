@@ -1,4 +1,8 @@
-![Logo](https://raw.githubusercontent.com/OrbitalDE/orbitalde.github.io/main/assets/logo.png)
+<center>
+
+<img src="https://raw.githubusercontent.com/OrbitalDE/orbitalde.github.io/main/assets/logo.png" alt="logo.png" width="10%">
+
+</center>
 
 # Orbital Website
 
