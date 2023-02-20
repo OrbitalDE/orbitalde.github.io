@@ -18,8 +18,6 @@ Orbital Desktop Environment
 
 </h3>
 
-![Orbital Desktop](https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/1.png)
-
 <img src="https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/1.png" width="100%" style="margin: auto; border-radius: 1em;">
 
 Orbital is a lightweight desktop environment with class and style that provides tiling window management. Orbital is powered by [skyWM](https://github.com/orbitalde/skywm). skyWM is an extensible tiling Window Manager written in Rust using the [penrose Window Manager library](https://github.com/sminez/penrose).
