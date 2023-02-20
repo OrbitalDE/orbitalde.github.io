@@ -31,11 +31,12 @@ Our components:
   - Modified version of skyWM
   - .xsessions files
   - Installer
-  - Settings application (Written in Python3 with TkInter)
+  - Orbital Settings binary
   - Terminator theme
   - Rofi theme
   - GTK3 theme
 - [skyWM](https://github.com/OrbitalDE/skyWM) - skyWM is an extensible tiling window manager written in Rust. skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy. 
+- [settings](https://github.com/OrbitalDE/settings) - A simple graphical settings application written for Orbital utilising Python and TkInter. 
 - [Keybinds](https://github.com/OrbitalDE/keybinds) - A GitHub pages site that displays when users press `Super` + `H`
 
 Open source components we utilised:
