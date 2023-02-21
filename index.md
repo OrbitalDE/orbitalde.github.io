@@ -53,6 +53,6 @@ Open source components we utilised:
 
 <p style="text-align: center;">
 
-Made with ❤️ by <a href="https://github.com/httpllamaz" target="_blank">http.llamaz</a> | <a href="https://github.com/OrbitalDE" target="_blank">Source Code</a>
+Made with ❤️ by <a href="https://github.com/httpllamaz" target="_blank">http.llamaz</a> | <a href="https://github.com/OrbitalDE" target="_blank">Source Code</a> | <a href="https://orbitalde.github.io/development">Roadmap</a>
 
 </p>
