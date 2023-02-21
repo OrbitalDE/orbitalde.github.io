@@ -32,6 +32,7 @@ Development Roadmap for Orbital `v1.1`
 
 **Planned features:**
 - [ ] Provide functionality for `Alt` + `Tab` by utilising the Rofi Window Switcher.
+    - [ ] Create custom Rofi configuration for `Alt` + `Tab` (Don't enter in full-screen App Grid)
 - [ ] Modify Rofi App Grid to have rounded corners and use less contrasting colours.
 - [ ] Provide logout menu when pressing `Super` +  `Shift` + `E`.
 
