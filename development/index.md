@@ -36,8 +36,13 @@ Development Roadmap for Orbital `v1.1`
 - [ ] Modify Rofi App Grid to have rounded corners and use less contrasting colours.
 - [ ] Provide logout menu when pressing `Super` +  `Shift` + `E` with Rofi.
     - [ ] Utilise a different configuration file for the logout menu.
-- [ ] Replace the tint2 bar with a customised lemonbar.
-- [ ] Upgrade skyWM penrose version from v0.2 to v0.3.
+- [x] Replace the tint2 bar with a customised lemonbar.
+- [ ] Utilise i3lock + bash scripts to provide a locking feature with blurred screen.
+
+**Scrapped Features**
+
+- Upgrade skyWM Penrose version from v0.2 -> v0.3
+    - Requires an overhaul of the Window manager code base, will complete in a later version of Orbital.
 
 <hr />
 
