@@ -36,7 +36,8 @@ Development Roadmap for Orbital `v1.1`
 - [ ] Modify Rofi App Grid to have rounded corners and use less contrasting colours.
 - [ ] Provide logout menu when pressing `Super` +  `Shift` + `E` with Rofi.
     - [ ] Utilise a different configuration file for the logout menu.
-- [ ] Replace the tint2 bar with a customised lemonbar
+- [ ] Replace the tint2 bar with a customised lemonbar.
+- [ ] Upgrade skyWM penrose version from v0.2 to v0.3.
 
 <hr />
 
