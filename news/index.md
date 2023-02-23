@@ -24,12 +24,12 @@ Orbital Desktop Environment
 
 Orbital Desktop v1.0.1 Antlia
 
+</h2>
+
 Orbital v1.0.1 is a small release focused on improving upon the Orbital v1.0 experience by fixing bugs and issues.
 
 **What's changed?**
 - fix: Installer script not installing feh by [@httpllamaz](https://github.com/httpllamaz) in [#1](https://github.com/OrbitalDE/Orbital/pull/1)
-
-<h2>
 
 <h2 id="100">
 

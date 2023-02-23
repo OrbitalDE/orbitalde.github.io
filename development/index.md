@@ -23,9 +23,9 @@ Orbital Desktop Environment
 Development Roadmap for Orbital `v1.1`
 
 **Development Roadmap**
-- [ ] Planning stage
-    - [ ] Feature discussion with Linux users and those interested
-    - [ ] Implementation discussion among developers
+- [x] Planning stage
+    - [x] Feature discussion with Linux users and those interested
+    - [x] Implementation discussion among developers
 - [ ] Development
 - [ ] Testing
 - [ ] Release
@@ -34,7 +34,9 @@ Development Roadmap for Orbital `v1.1`
 - [ ] Provide functionality for `Alt` + `Tab` by utilising the Rofi Window Switcher.
     - [ ] Create custom Rofi configuration for `Alt` + `Tab` (Don't enter in full-screen App Grid)
 - [ ] Modify Rofi App Grid to have rounded corners and use less contrasting colours.
-- [ ] Provide logout menu when pressing `Super` +  `Shift` + `E`.
+- [ ] Provide logout menu when pressing `Super` +  `Shift` + `E` with Rofi.
+    - [ ] Utilise a different configuration file for the logout menu.
+- [ ] Replace the tint2 bar with a customised lemonbar
 
 <hr />
 
